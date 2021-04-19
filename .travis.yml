@@ -12,5 +12,5 @@ deploy:
     secure: ZQSbqlk2xP4Shl8XAzMlaGRcFp9kXg/fRKJJY1DWdPO28ItkUnhIX8OprNUXsEvHq1rVA4xTV2gEZFKj+4gxx05s+3SBhmnkEDN4BuuKtGGHgAplujDZY8jeXB+eil2cj/AyGSL3txTLPG5bS+YLAPT4q0NNYiPxgLwH3kvz/3IglZGK7zRJ4Ahl6KMOlgtT2NvEWLWQBj1PwN44XwnYKR5Uhefr65w+OvDugCgm0HeKx9GeHsu8DfJlHun6oKBqEmzgLo2+Mvxfi43wvMcwAFH5MtjBuMTTvtzNdw0R8+O7etlk+myoq+pt5UItwsufd1qt4SmcEVhLMFI6n1yQCT6Qz/36VyW+l7Bzi4spC5UrOE4snTMKQuUCKTJsYh2ySSPE4AZEYRZgaytuaMuHolYEYnqn/uVzrELzdVaCiac9G0r/G5tUHefdr0u4uou9UatKCzpo0hBgzjTcz0EUV4DKBVjIF+cGwW4kkRNGNz5O5s5W7SwRqWp5zUbVy1iptMr8oO0fy0ysK3BClFTAnfLyvWN5Vzvx9Q4v5nvZFkmKr6HwA1AMppS5UUyi2u+4T6OzOgzZzMY4pRHkjNPqYh0qrBhje4WxRYObKGok+0Lm8nkMuQmYZ1giLPNyjY49VfKgnOMut7ALdfP4VI51RwFksGwpTfEjaJJ4ih5Ky0Y=
   app: sesion6-travis-heroku
   on:
-    repo: organizacion-sesion-3-ricardo-sanchez/sesion6-travis-heroku-ricardo
+    repo: organizacion-sesion-3-ricardo-sanchez/sesion6-travis-heroku
   skip_cleanup: 'true'
