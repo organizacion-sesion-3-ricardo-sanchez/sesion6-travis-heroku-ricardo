@@ -11,6 +11,9 @@ composer install
 ```
 
 ## Acceso al servidor de producción (Heroku)
+(añadida entrada para series)
 
-http://APP_NAME.herokuapp.com
+https://sesion6-travis-heroku-ricardo.herokuapp.com/
+
+https://sesion6-travis-heroku-ricardo.herokuapp.com/series
 
