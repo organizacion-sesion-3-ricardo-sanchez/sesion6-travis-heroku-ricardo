@@ -6,7 +6,7 @@
             "href" : "{{ path_for('series')}}",
 
             "links" : [
-                {"rel" : "profile" , "href" : "http://schema.org/Serie","prompt":"Perfil"},
+                {"rel" : "profile" , "href" : "http://schema.org/Series","prompt":"Perfil"},
                 {"rel" : "collection", "href" : "{{ path_for('movies') }}","prompt":"Movies"},
                 {"rel" : "collection", "href" : "{{ path_for('books') }}","prompt":"Books"},
                 {"rel" : "collection", "href" : "{{ path_for('musicalbums') }}","prompt":"Music Albums"},

@@ -77,7 +77,7 @@ $app->post('/series', function ($req, $res, $args)  {
     $nueva_serie->save();
 });
 //Actualizar serie
-$app->put('/movies/{id}', function ($req, $res, $args) {
+$app->put('/series/{id}', function ($req, $res, $args) {
     $template = $req->getParsedBody();
     $datos = $template['template']['data'];
     //longitud del vector
